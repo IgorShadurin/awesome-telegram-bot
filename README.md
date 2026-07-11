@@ -89,6 +89,7 @@ Manual picked bot of Telegram.
 - [WordBot](https://t.me/LexicoBot) / @LexicoBot - 英英词典。
 - [Yandex.Translate](https://t.me/YTranslateBot) / @YTranslateBot - 翻译，可选择从什么语言翻译到什么语言。翻译单词略简单，但支持整句翻译。
 - [双拼小教练](https://t.me/udpn_bot) / @udpn_bot - 练习双拼的小工具，支持多种方案。
+- [Weight Goal Bot](https://t.me/my_weight_goal_bot) / @my_weight_goal_bot - 支持俄语和英语的群组减重目标机器人，提供每周打卡、进度图、提醒和成就徽章。[开源代码](https://github.com/IgorShadurin/weight-telegram-bot)。
 
 
 
